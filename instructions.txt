@@ -1,0 +1,12 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install -g vite
+npm run dev
+
+
+https://github.com/hasinhayder/tailwind-boilerplate
+
+https://github.com/hasinhayder/tailwind-cards
+https://tailwindcss.com/docs/responsive-design
+https://www.youtube.com/watch?v=X7XbjwD6fVY&list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2
+https://tailwindcss.com/docs/reusing-styles#loops
